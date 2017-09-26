@@ -20,6 +20,8 @@ Download the ready-to-use Eclipse IDE version of RSLingo4Privacy Studio through 
 
 [AR2016] A. R. Silva et al., "Improving the Specification and Analysis of Privacy Policies: The RSLingo4Privacy Approach", in Proceedings of the 8th ICEIS conference, SCITEPRESS, 336-347, 2016.
 
+[RS2017] A. Ribeiro, A. R. Silva, "RSLingo4Privacy Studio - A Tool to Improve the Specification and Analysis of Privacy Policies", in Proceedings of the 9th ICEIS conference, SCITEPRESS, 2017. https://www.researchgate.net/publication/317116974_RSLingo4Privacy_Studio_-_A_Tool_to_Improve_the_Specification_and_Analysis_of_Privacy_Policies
+
 [BB2011] T. D. Breaux, D. L. Baumer, "Legally 'Reasonable' Security Requirements: A 10-year FTC Retrospective", Computers & Security, 30(4):178-193, 2011.
 
 [BA2008] T. D. Breaux, A. I. Antón, "Analyzing regulatory rules for privacy and security requirements", IEEE Trans. Soft. Eng., Special Issue on Soft. Engr. for Secure Sys., 34(1):5-20, 2008.
